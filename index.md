@@ -17,10 +17,6 @@ Bonnie Berger is the Simons Professor of Mathematics at MIT and serves as head o
 
 After beginning her career working in algorithms at MIT, she was one of the pioneer researchers in the area of computational molecular biology and, together with the many students she has mentored, has been instrumental in defining the field. Professor Berger is an elected fellow of the American Academy of Arts and Sciences, Association for Computing Machinery, International Society for Computational Biology (ISCB), American Institute of Medical and Biological Engineering, American Mathematical Society, the Society of Industrial and Applied Mathematics. Recently she was recognized by ISCB with their Accomplishments by a Senior Scientist Award. She received the NIH Margaret Pittman Director's Award, the SIAM Sonya Kovalevsky Lecture Prize and an Honorary Doctorate from EPFL. Earlier in her career, she received an NSF Career Award, the Biophysical Society's Dayhoff Award, and recognition as Technology Review Magazine's inaugural TR100 top young innovators. She won the RECOMB Test of Time Award both in 2010 and 2019. She also serves on the Executive Editorial Board of Journal of Computational Biology and as member of the editorial boards of Annual Review for Biomedical Data Science, Genome Biology, Bioinformatics, IEEE/ACM TCBB, and Cell Systems. In addition, Professor Berger is an Associate Member of the Broad Institute, Faculty member of Harvard/MIT Health Science & Technology, and Affiliated Faculty of Harvard Medical School. Recently she was elected to the (https://news.mit.edu/2020/three-mit-elected-national-academy-sciences-0501)[National Academy of Sciences Class of 2021].
 
-{%
-  image="images/bab_swiss.png"
-%}
-
 <!-- {% capture text %}
 
 
