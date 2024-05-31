@@ -1,19 +1,11 @@
 ---
-name: Jane Smith
+name: Shuvom Sadhuka
 image: images/photo.jpg
-role: pi
-aliases:
-  - J. Smith
-  - J Smith
+role: phd
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+description:
+  Shuvom Sadhuka is a Ph.D. student in EECS. He is interested in calibration, uncertainty quantification, privacy, and machine learning, especially in biomedical contexts. Prior to MIT, he received his A.B. in Computer Science at Harvard. He is a recipient of the NSF Graduate Research Fellowship and the Hertz Fellowship.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+
