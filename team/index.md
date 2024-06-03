@@ -36,9 +36,9 @@ Lab Alumni
 
 [Sarah Nyquist](https://snyquist2.github.io/) (PhD 2022 --> Postdoc @ Gladstone Institutes)
 
-[Ariya Shajii](https://ars.me/) (PhD 2021 --> Co-founder and CTO @ Exaloop)
-
 [Ellen Zhong](https://www.cs.princeton.edu/~zhonge/) (PhD 2022 --> Assistant Professor @ Princeton Computer Science)
+
+[Ariya Shajii](https://ars.me/) (PhD 2021 --> Co-founder and CTO @ Exaloop)
 
 [Brian Hie](https://brianhie.com/) (PhD 2021 --> Stanford Science Fellow, now Assistant Professor @ Stanford Chemical Engineering and Data Science)
 
@@ -46,7 +46,7 @@ Lab Alumni
 
 [Hyunghoon Cho](https://hhcho.com) (PhD 2019 --> Schmidt Fellow @ Broad, now Assistant Professor @ Yale Biomedical Data Science)
 
-[Ibrahim Numanagic]() (Postdoc --> Assistant Professor @ University of Victor Computational Biology and Data Science)
+[Ibrahim Numanagic]() (Postdoc --> Assistant Professor @ University of Victoria Computational Biology and Data Science)
 
 [Sumaiya Nazeen](https://nazeen.csail.mit.edu/) (PhD 2019 --> Postdoc @ Harvard Medical School)
 
@@ -98,7 +98,7 @@ Lab Alumni
 
 [Vinay Pulim]() (PhD 2008 --> Co-founder at CTO @ MileWise, now co-founder and CTO @ Canopy)
 
-[Shannon Wieland]() [PhD 2007 --> MD/PhD @ Harvard Medical School]
+[Shannon Wieland]() (PhD 2007 --> MD/PhD @ Harvard Medical School)
 
 [Gopal Ramachandran]() (PhD 2007 --> MD/PhD @ Harvard Medical School, now Head of Machine Learning @ SolveBio)
 
