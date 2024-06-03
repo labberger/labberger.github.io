@@ -52,7 +52,7 @@ Lab Alumni
 
 [Perry Palmedo]() (PhD 2018 --> VP of Corporate Development and Strategy @ insitro --> Co-founder and CEO @ Conflux)
 
-[Yun William Yu](https://yunwilliamyu.net/content/pages/research-group.html) (PhD 2017 --> Assistant Professor of Applied Math @ University of Toronto, now Assistant Professor of Computational Biology @ CMU)
+[Yun William Yu](https://yunwilliamyu.net/content/pages/research-group.html) (PhD 2017 --> Assistant Professor @ University of Toronto Applied Math, now Assistant Professor @ CMU Computational Biology)
 
 [Divya Shanmugam](https://dmshanmugam.github.io/) (undergrad --> PhD student @ MIT CSAIL)
 
@@ -86,11 +86,11 @@ Lab Alumni
 
 [Charles O'Donnell]() (PhD 2011 --> Vice President of Computational Genomics and Data Sciences @ Omega Therapeutics)
 
-[Leonid Chindelevitch](https://profiles.imperial.ac.uk/l.chindelevitch) (PhD 2010, Postdoc @ Yale --> Assistant Professor of Computer Science @ Simon Fraser, now Assistant Professor of Epidemiology @ Imperial College London)
+[Leonid Chindelevitch](https://profiles.imperial.ac.uk/l.chindelevitch) (PhD 2010, Postdoc @ Yale --> Assistant Professor @ Simon Fraser Computer Science, now Assistant Professor @ Imperial College London Epidemiology)
 
 [Oaz Nir]() (PhD 2010 --> Partner @ Hudson River Trading)
 
-[Michael Baym](https://baymlab.hms.harvard.edu/) (PhD 2009 --> Postdoc @ Harvard Medical School, now Associate Professor of Biomedical Informatics @ Harvard Medical School)
+[Michael Baym](https://baymlab.hms.harvard.edu/) (PhD 2009 --> Postdoc @ Harvard Medical School, now Associate Professor @ Harvard Medical School Department of Biomedical Informatics)
 
 [Allen Bryan]() (PhD 2009 --> Harvard MD/PhD, now Assistant Professor of Medicine @ UC Davis School of Medicine)
 
@@ -108,19 +108,19 @@ Lab Alumni
 
 [Manolis Kellis](https://web.mit.edu/manoli/) (PhD 2003 --> Professor of Computer Science @ MIT)
 
-[Phil Bradley](https://www.fredhutch.org/en/faculty-lab-directory/bradley-phil.html) (PhD 2001 --> Professor of Public Health @ Fred Hutch Cancer Center)
+[Phil Bradley](https://www.fredhutch.org/en/faculty-lab-directory/bradley-phil.html) (PhD 2001 --> Professor @ Fred Hutch Cancer Center Public Health )
 
-[Russell Schwartz](https://www.cmu.edu/bio/people/faculty/schwartz.html) (PhD 2000 --> Professor of Computational Biology @ CMU)
+[Russell Schwartz](https://www.cmu.edu/bio/people/faculty/schwartz.html) (PhD 2000 --> Professor @ CMU Computational Biology)
 
-[Serafim Batzoglou]() (PhD 2000 --> Professor of Computer Science @ Stanford --> Chief Data Officer @ insitro, now Chief Data Officer @ Seer, Inc.)
+[Serafim Batzoglou]() (PhD 2000 --> Professor @ Stanford Computer Science --> Chief Data Officer @ insitro, now Chief Data Officer @ Seer, Inc.)
 
-[Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) (PhD 1999 --> Professor of Math @ UC Berkeley, now Professor of Computational Biology and of Computing and Mathematical Sciences @ Caltech)
+[Lior Pachter](https://www.bbe.caltech.edu/people/lior-s-pachter) (PhD 1999 --> Professor UC Berkeley Math, now Bren Professor @ Caltech Computational Biology and Computing and Mathematical Sciences)
 
 [C. Esther Jesurum]() (PhD 1997 --> Chief Architect @ Zengines)
 
 [Ethan Wolf]() (PhD 1996)
 
-[Mona Singh](https://www.cs.princeton.edu/people/profile/mona) (PhD 1995 --> Wang Family Professor in Computer Science @ Princeton)
+[Mona Singh](https://www.cs.princeton.edu/people/profile/mona) (PhD 1995 --> Wang Family Professor @ Princeton Computer Science)
 
 
 
