@@ -3,15 +3,17 @@
 
 # Berger Lab
 
-
 We are an interdisciplinary group of researchers working at the intersection of computer science, mathematics, and biology. Our research draws upon advancements in  machine learning, algorithms, and statistics to develop computational tools for both biological discovery and medical applications. Some particular areas of current interest include (but are not limited to) large language models for biological sequences, machine learning for structural biology, uncertainty estimation and calibration, privacy-preserving analytics, fundamental problems in algorithmic genomics, and causal inference for single-cell data. Our past work has also touched upon network biology, and population genetics. Research in our group is driven by the interests of our members, and we are always excited to explore new directions and collaborations.
+
+<img src="{{ site.baseurl }}/images/lab_party.jpg" style="display:block;margin-left:auto;margin-right:auto;width:50%"><br><br>
 
 {% include section.html %}
 
 
-<img src="{{ site.baseurl }}/images/bab_swiss.png" style="display:block;margin-left:auto;margin-right:auto">
 
 ## Bio
+
+<img src="{{ site.baseurl }}/images/bab_swiss.png" style="float:left;padding:20px">
 
 Bonnie Berger is the Simons Professor of Mathematics at MIT and serves as head of Computation and Biology group at MIT's Computer Science and AI Lab. Her recent work focuses on designing algorithms to gain biological insights from advances in automated data collection and the subsequent large data sets drawn from them. She works on a diverse set of problems, including Compressive Genomics, Network Inference, Structural Bioinformatics, Genomic Privacy, and Medical Genomics. Additionally, she collaborates closely with biologists in order to design experiments to maximally leverage the power of computation for biological explorations.
 
