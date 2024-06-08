@@ -1,58 +1,3 @@
-<!-- {% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
-{% else %}
-  {% assign member = include %}
-{% endif %}
-
-<div class="portrait-wrapper">
-  <a
-    {% if page.slug != member.slug %}
-      href="{{ member.links.home_page}}"
-    {% endif %}
-    class="portrait"
-    data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
-  >
-    <img
-      src="{{ member.image | relative_url }}"
-      class="portrait-image"
-      alt="member portrait"
-      loading="lazy"
-      {% include fallback.html %}
-    >
-
-    {% if member.name or member.role or member.description %}
-      <span class="portrait-text">
-        {% if member.name %}
-          <span class="portrait-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
-
-        {% if member.role or member.description %}
-          <span class="portrait-role">
-            {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
-            {% if member.description %}
-                {% for item in member.description %}
-                    <div>{{ item }}</div>
-                {% endfor %}
-            {% else %}
-                <span>{{ type.description }}</span>
-            {% endif %}
-          </span>
-        {% endif %}
-      </span>
-    {% endif %}
-  </a>
-</div> -->
-
-
-
 {% if include.lookup %}
   {% assign member = site.members 
     | where_exp: "member", "member.slug == include.lookup"
@@ -91,12 +36,11 @@
           <span class="portrait-role">
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
+            <!-- <span>{{ member.description | default: type.description }}</span> -->
             {% if member.description %}
-                <div class="member-description">
-                    {% for item in member.description %}
-                        <div>{{ item }}</div>
-                    {% endfor %}
-                </div>
+                {% for item in member.description %}
+                    <div>{{ item }}</div>
+                {% endfor %}
             {% else %}
                 <span>{{ type.description }}</span>
             {% endif %}
@@ -106,3 +50,8 @@
     {% endif %}
   </a>
 </div>
+
+
+
+
+
