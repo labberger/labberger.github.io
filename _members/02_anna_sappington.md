@@ -1,6 +1,6 @@
 ---
 name: Anna Sappington
-image: images/team_members/anna.heic
+image: images/team_members/anna.jpg
 role: phd
 links:
   home-page: https://orcid.org/0000-0003-3608-152X
