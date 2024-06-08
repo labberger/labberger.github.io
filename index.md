@@ -4,12 +4,12 @@
 # Berger Lab
 
 
-We are an interdisciplinary group of researchers working at the intersection of computer science, mathematics, and biology. Our research draws upon advancements in  machine learning, algorithms, and statistics to develop computational tools for both biological discovery and medical applications. Some particular areas of current interest include (but are not limited to) large language models for biological sequences, machine learning for structural biology, uncertainty estimation and calibration, privacy-preserving analytics, and fundamental problems in algorithmic genomics. Our past work has also touched upon network biology, population genetics, and causal inference for single-cell data. Research in our group is driven by the interests of our members, and we are always excited to explore new directions and collaborations.
+We are an interdisciplinary group of researchers working at the intersection of computer science, mathematics, and biology. Our research draws upon advancements in  machine learning, algorithms, and statistics to develop computational tools for both biological discovery and medical applications. Some particular areas of current interest include (but are not limited to) large language models for biological sequences, machine learning for structural biology, uncertainty estimation and calibration, privacy-preserving analytics, fundamental problems in algorithmic genomics, and causal inference for single-cell data. Our past work has also touched upon network biology, and population genetics. Research in our group is driven by the interests of our members, and we are always excited to explore new directions and collaborations.
 
 {% include section.html %}
 
 
-{% include section.html %}
+<img src="{{ site.baseurl }}/images/bab_swiss.png" style="display:block;margin-left:auto;margin-right:auto">
 
 ## Bio
 

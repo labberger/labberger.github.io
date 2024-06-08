@@ -9,8 +9,8 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{{ member.links.home_page}}"
+    {% if member.link %}
+      href="{{ member.link }}"
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
@@ -32,11 +32,9 @@
           </span>
         {% endif %}
 
-        {% if member.role or member.description %}
+        {% if member.description %}
           <span class="portrait-role">
             {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <!-- <span>{{ member.description | default: type.description }}</span> -->
             {% if member.description %}
                 {% for item in member.description %}
                     <div>{{ item }}</div>
@@ -50,8 +48,3 @@
     {% endif %}
   </a>
 </div>
-
-
-
-
-
