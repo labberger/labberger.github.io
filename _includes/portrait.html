@@ -37,7 +37,7 @@
             {% assign type = site.data.types[member.role] %}
             {% if member.description %}
                 {% for item in member.description %}
-                    <div>{{ item }}</div>
+                    <div style="color: var(--text);">{{ item }}</div>
                 {% endfor %}
             {% else %}
                 <span>{{ type.description }}</span>

@@ -18,7 +18,7 @@ Cambridge, MA 02139<br>
   include button.html
   type="email"
   text="bab@mit.edu"
-  link="jane@smith.com"
+  link="bab@mit.edu"
 %}
 
 {%
