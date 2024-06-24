@@ -14,11 +14,20 @@ Massachusetts Institute of Technology<br>
 77 Massachusetts Avenue<br>
 Cambridge, MA 02139<br>
 
+To contact us by email, please address both Bonnie&ensp;(bab@mit.edu) and Pepe Abola&ensp;(josea525@mit.edu).
+
 {%
   include button.html
   type="email"
   text="bab@mit.edu"
   link="bab@mit.edu"
+%}
+
+{%
+  include button.html
+  type="email"
+  text="josea525@mit.edu"
+  link="josea525@mit.edu"
 %}
 
 {%
