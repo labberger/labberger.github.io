@@ -13,7 +13,6 @@
   link: https://doi.org/gt2mn9
   tags:
   - single-cell
-  - tools
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cels.2024.04.005
@@ -27,6 +26,8 @@
   publisher: Cell Systems
   date: '2024-05-01'
   link: https://doi.org/gt2mpb
+  tags:
+  - single-cell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-0716-3989-4_19
@@ -42,6 +43,8 @@
   publisher: Lecture Notes in Computer Science
   date: '2024-01-01'
   link: https://doi.org/gt2mpc
+  tags:
+  - privacy
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2402.04845
@@ -53,5 +56,10 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/gt2mpd
+  buttons:
+  - type: source
+    link: https://github.com/bjing2016/alphaflow
+  tags:
+  - structural biology
   plugin: sources.py
   file: sources.yaml
