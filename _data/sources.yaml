@@ -1,10 +1,20 @@
-## LIST OF CURRENT TAGS: single-cell, tools
-
-# Scanorama
+## LIST OF CURRENT TAGS: privacy, single-cell, structural biology
+# Scanorama, Hie 2024
 - id: doi:10.1038/s41596-024-00991-3
   tags:
     - single-cell
-    - tools
+# Singh 2024
 - id: doi:10.1016/j.cels.2024.04.005
+  tags:
+    - single-cell
+# Hong 2024
 - id: doi:10.1007/978-1-0716-3989-4_19
+  tags:
+    - privacy
+# AlphaFlow, Jing 2024
 - id: doi:10.48550/arXiv.2402.04845
+  buttons:
+    - type: source
+      link: https://github.com/bjing2016/alphaflow
+  tags:
+    - structural biology
