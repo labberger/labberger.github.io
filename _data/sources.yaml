@@ -1,4 +1,4 @@
-## LIST OF CURRENT TAGS: privacy, single-cell, structural biology
+## LIST OF CURRENT TAGS: algorithmic genomics, language models, privacy, single-cell, structural biology
 # Scanorama, Hie 2024
 - id: doi:10.1038/s41596-024-00991-3
   tags:
@@ -18,3 +18,44 @@
       link: https://github.com/bjing2016/alphaflow
   tags:
     - structural biology
+# Jing 2023
+- id: doi:10.48550/arXiv.2312.04323
+  tags:
+    - structural biology
+# Sledzieski 2023
+- id: doi:10.1101/2023.11.09.566187
+  tags:
+    - language models
+    - structural biology
+# Sledzieski 2023
+- id: doi:10.1093/bioinformatics/btad663
+  tags:
+    - language models
+    - structural biology
+# Pao-Huang 2023
+- title: Scalable Multimer Structure Prediction using Diffusion Models
+  authors:
+    - Peter Pao-Huang
+    - Bowen Jing
+    - Bonnie Berger
+  publisher: NeurIPS 2023 AI for Science Workshop
+  date: 2021-10-28
+  link: https://openreview.net/forum?id=SV6mT8iSFP
+  tags:
+    - structural biology
+# SCA, DeMeo 2023
+- id: doi:10.1186/s13059-023-02998-7
+  tags:
+    - single-cell
+# sfkit, Mendelsohn 2023
+- id: doi:10.1093/nar/gkad464
+  tags:
+    - privacy
+# mapquik, Ekim 2023
+- id: doi:10.1101/gr.277679.123
+  tags:
+    - algorithmic genomics
+# Sadhuka 2023
+- id: doi:10.1101/gr.277699.123
+  tags:
+    - privacy
