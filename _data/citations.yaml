@@ -63,3 +63,121 @@
   - structural biology
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2312.04323
+  title: Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms
+  authors:
+  - Bowen Jing
+  - Tommi Jaakkola
+  - Bonnie Berger
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gt2rm4
+  tags:
+  - structural biology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.11.09.566187
+  title: Democratizing Protein Language Models with Parameter-Efficient Fine-Tuning
+  authors:
+  - Samuel Sledzieski
+  - Meghana Kshirsagar
+  - Minkyung Baek
+  - Bonnie Berger
+  - Rahul Dodhia
+  - Juan Lavista Ferres
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-10'
+  link: https://doi.org/gt2rm5
+  tags:
+  - language models
+  - structural biology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btad663
+  title: "TT3D: Leveraging precomputed protein 3D sequence models to predict protein\u2013\
+    protein interactions"
+  authors:
+  - Samuel Sledzieski
+  - Kapil Devkota
+  - Rohit Singh
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Bioinformatics
+  date: '2023-10-28'
+  link: https://doi.org/gt2rm6
+  tags:
+  - language models
+  - structural biology
+  plugin: sources.py
+  file: sources.yaml
+- title: Scalable Multimer Structure Prediction using Diffusion Models
+  authors:
+  - Peter Pao-Huang
+  - Bowen Jing
+  - Bonnie Berger
+  publisher: NeurIPS 2023 AI for Science Workshop
+  date: '2021-10-28'
+  link: https://openreview.net/forum?id=SV6mT8iSFP
+  tags:
+  - structural biology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-023-02998-7
+  title: 'SCA: recovering single-cell heterogeneity through information-based dimensionality
+    reduction'
+  authors:
+  - Benjamin DeMeo
+  - Bonnie Berger
+  publisher: Genome Biology
+  date: '2023-08-25'
+  link: https://doi.org/gtx2cc
+  tags:
+  - single-cell
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/nar/gkad464
+  title: 'sfkit: a web-based toolkit for secure and federated genomic analysis'
+  authors:
+  - Simon Mendelsohn
+  - David Froelicher
+  - Denis Loginov
+  - David Bernick
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Nucleic Acids Research
+  date: '2023-05-29'
+  link: https://doi.org/gs456s
+  tags:
+  - privacy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.277679.123
+  title: Efficient mapping of accurate long reads in minimizer space with mapquik
+  authors:
+  - "Bari\u015F Ekim"
+  - Kristoffer Sahlin
+  - Paul Medvedev
+  - Bonnie Berger
+  - Rayan Chikhi
+  publisher: Genome Research
+  date: '2023-06-30'
+  link: https://doi.org/gsswfb
+  tags:
+  - algorithmic genomics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.277699.123
+  title: Assessing transcriptomic reidentification risks using discriminative sequence
+    models
+  authors:
+  - Shuvom Sadhuka
+  - Daniel Fridman
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Genome Research
+  date: '2023-08-04'
+  link: https://doi.org/gt2rm7
+  tags:
+  - privacy
+  plugin: sources.py
+  file: sources.yaml
