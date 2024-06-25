@@ -1,4 +1,10 @@
+## LIST OF CURRENT TAGS: single-cell, tools
+
+# Scanorama
 - id: doi:10.1038/s41596-024-00991-3
+  tags:
+    - single-cell
+    - tools
 - id: doi:10.1016/j.cels.2024.04.005
 - id: doi:10.1007/978-1-0716-3989-4_19
 - id: doi:10.48550/arXiv.2402.04845
