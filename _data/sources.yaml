@@ -1,37 +1,39 @@
-## LIST OF CURRENT TAGS: algorithmic genomics, language models, privacy, single-cell, structural biology
 # Scanorama, Hie 2024
 - id: doi:10.1038/s41596-024-00991-3
-  tags:
-    - single-cell
+  buttons:
+    - type: source
+      link: https://github.com/brianhie/scanorama
+
 # Singh 2024
 - id: doi:10.1016/j.cels.2024.04.005
-  tags:
-    - single-cell
+
 # Hong 2024
 - id: doi:10.1007/978-1-0716-3989-4_19
-  tags:
-    - privacy
+  buttons:
+    - type: source
+      link: https://github.com/froelich/sf-relate
+
 # AlphaFlow, Jing 2024
 - id: doi:10.48550/arXiv.2402.04845
   buttons:
     - type: source
       link: https://github.com/bjing2016/alphaflow
-  tags:
-    - structural biology
+
 # Jing 2023
 - id: doi:10.48550/arXiv.2312.04323
-  tags:
-    - structural biology
+  buttons:
+    - type: source
+      link: https://github.com/bjing2016/scalar-fields
+
 # Sledzieski 2023
 - id: doi:10.1101/2023.11.09.566187
-  tags:
-    - language models
-    - structural biology
+
 # Sledzieski 2023
 - id: doi:10.1093/bioinformatics/btad663
-  tags:
-    - language models
-    - structural biology
+  buttons:
+    - type: source
+      link: https://github.com/samsledje/D-SCRIPT
+
 # Pao-Huang 2023
 - title: Scalable Multimer Structure Prediction using Diffusion Models
   authors:
@@ -41,21 +43,63 @@
   publisher: NeurIPS 2023 AI for Science Workshop
   date: 2021-10-28
   link: https://openreview.net/forum?id=SV6mT8iSFP
-  tags:
-    - structural biology
+
 # SCA, DeMeo 2023
 - id: doi:10.1186/s13059-023-02998-7
-  tags:
-    - single-cell
+  buttons:
+    - type: source
+      link: https://github.com/bendemeo/shannonca
+
 # sfkit, Mendelsohn 2023
 - id: doi:10.1093/nar/gkad464
-  tags:
-    - privacy
+
 # mapquik, Ekim 2023
 - id: doi:10.1101/gr.277679.123
-  tags:
-    - algorithmic genomics
+  buttons:
+    - type: source
+      link: https://github.com/ekimb/mapquik
+
 # Sadhuka 2023
 - id: doi:10.1101/gr.277699.123
-  tags:
-    - privacy
+  buttons:
+    - type: source
+      link: https://github.com/shuvom-s/DSM
+
+# Singh 2023
+- id: doi:10.1073/pnas.222077812
+  buttons:
+    - type: source
+      link: https://github.com/samsledje/ConPLex_dev
+
+# Froelicher 2023
+- id: doi:10.1109/SP46215.2023.10179350
+
+# AbMAP, Singh 2023
+- id: doi:10.1101/2023.04.26.538476
+  buttons:
+    - type: source
+      link: https://github.com/rs239/ablm
+
+# EigenFold, Jing 2023
+- id: doi:10.48550/arXiv.2304.02198
+  buttons:
+    - type: source
+      link: https://github.com/bjing2016/EigenFold
+
+# review, Berger 2023
+- id: doi:10.1038/s41576-022-00551-z
+
+# GrID-Net, Wu 2023
+- id: doi:10.1101/2023.03.02.530529
+  buttons:
+    - type: source
+      link: https://github.com/alexw16/gridnet
+
+# Kinman 2023
+- id: doi:10.1038/s41596-022-00763-x
+
+# sequre, Smajlovic 2023
+- id: doi:10.1186/s13059-022-02841-5
+  buttons:
+    - type: source
+      link: https://github.com/0xTCG/sequre
