@@ -11,8 +11,9 @@
   publisher: Nature Protocols
   date: '2024-06-06'
   link: https://doi.org/gt2mn9
-  tags:
-  - single-cell
+  buttons:
+  - type: source
+    link: https://github.com/brianhie/scanorama
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cels.2024.04.005
@@ -26,8 +27,6 @@
   publisher: Cell Systems
   date: '2024-05-01'
   link: https://doi.org/gt2mpb
-  tags:
-  - single-cell
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-1-0716-3989-4_19
@@ -43,8 +42,9 @@
   publisher: Lecture Notes in Computer Science
   date: '2024-01-01'
   link: https://doi.org/gt2mpc
-  tags:
-  - privacy
+  buttons:
+  - type: source
+    link: https://github.com/froelich/sf-relate
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2402.04845
@@ -59,8 +59,6 @@
   buttons:
   - type: source
     link: https://github.com/bjing2016/alphaflow
-  tags:
-  - structural biology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2312.04323
@@ -72,8 +70,9 @@
   publisher: arXiv
   date: '2023-01-01'
   link: https://doi.org/gt2rm4
-  tags:
-  - structural biology
+  buttons:
+  - type: source
+    link: https://github.com/bjing2016/scalar-fields
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.11.09.566187
@@ -88,9 +87,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-11-10'
   link: https://doi.org/gt2rm5
-  tags:
-  - language models
-  - structural biology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btad663
@@ -105,9 +101,9 @@
   publisher: Bioinformatics
   date: '2023-10-28'
   link: https://doi.org/gt2rm6
-  tags:
-  - language models
-  - structural biology
+  buttons:
+  - type: source
+    link: https://github.com/samsledje/D-SCRIPT
   plugin: sources.py
   file: sources.yaml
 - title: Scalable Multimer Structure Prediction using Diffusion Models
@@ -118,8 +114,6 @@
   publisher: NeurIPS 2023 AI for Science Workshop
   date: '2021-10-28'
   link: https://openreview.net/forum?id=SV6mT8iSFP
-  tags:
-  - structural biology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-023-02998-7
@@ -131,8 +125,9 @@
   publisher: Genome Biology
   date: '2023-08-25'
   link: https://doi.org/gtx2cc
-  tags:
-  - single-cell
+  buttons:
+  - type: source
+    link: https://github.com/bendemeo/shannonca
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/nar/gkad464
@@ -147,8 +142,6 @@
   publisher: Nucleic Acids Research
   date: '2023-05-29'
   link: https://doi.org/gs456s
-  tags:
-  - privacy
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/gr.277679.123
@@ -162,8 +155,9 @@
   publisher: Genome Research
   date: '2023-06-30'
   link: https://doi.org/gsswfb
-  tags:
-  - algorithmic genomics
+  buttons:
+  - type: source
+    link: https://github.com/ekimb/mapquik
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/gr.277699.123
@@ -177,7 +171,137 @@
   publisher: Genome Research
   date: '2023-08-04'
   link: https://doi.org/gt2rm7
-  tags:
-  - privacy
+  buttons:
+  - type: source
+    link: https://github.com/shuvom-s/DSM
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2220778120
+  title: Contrastive learning in protein language space predicts interactions between
+    drugs and protein targets
+  authors:
+  - Rohit Singh
+  - Samuel Sledzieski
+  - Bryan Bryson
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-06-08'
+  link: https://doi.org/gsbv4h
+  buttons:
+  - type: source
+    link: https://github.com/samsledje/ConPLex_dev
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SP46215.2023.10179350
+  title: Scalable and Privacy-Preserving Federated Principal Component Analysis
+  authors:
+  - David Froelicher
+  - Hyunghoon Cho
+  - Manaswitha Edupalli
+  - Joao Sa Sousa
+  - Jean-Philippe Bossuat
+  - Apostolos Pyrgelis
+  - Juan R. Troncoso-Pastoriza
+  - Bonnie Berger
+  - Jean-Pierre Hubaux
+  publisher: 2023 IEEE Symposium on Security and Privacy (SP)
+  date: '2023-05-01'
+  link: https://doi.org/gt2wt9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.04.26.538476
+  title: Learning the Language of Antibody Hypervariability
+  authors:
+  - Rohit Singh
+  - Chiho Im
+  - Yu Qiu
+  - Brian Mackness
+  - Abhinav Gupta
+  - Taylor Sorenson
+  - Samuel Sledzieski
+  - Lena Erlach
+  - Maria Wendt
+  - Yves Fomekong Nanfack
+  - Bryan Bryson
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-28'
+  link: https://doi.org/gt2wvb
+  buttons:
+  - type: source
+    link: https://github.com/rs239/ablm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2304.02198
+  title: 'EigenFold: Generative Protein Structure Prediction with Diffusion Models'
+  authors:
+  - Bowen Jing
+  - Ezra Erives
+  - Peter Pao-Huang
+  - Gabriele Corso
+  - Bonnie Berger
+  - Tommi Jaakkola
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gt2wvc
+  buttons:
+  - type: source
+    link: https://github.com/bjing2016/EigenFold
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41576-022-00551-z
+  title: Navigating bottlenecks and trade-offs in genomic data analysis
+  authors:
+  - Bonnie Berger
+  - Yun William Yu
+  publisher: Nature Reviews Genetics
+  date: '2022-12-07'
+  link: https://doi.org/gt2wvd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.03.02.530529
+  title: Unveiling causal regulatory mechanisms through cell-state parallax
+  authors:
+  - Alexander Po-Yen Wu
+  - Rohit Singh
+  - Christopher Walsh
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-03'
+  link: https://doi.org/gt2wvf
+  buttons:
+  - type: source
+    link: https://github.com/alexw16/gridnet
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41596-022-00763-x
+  title: Uncovering structural ensembles from single-particle cryo-EM data using cryoDRGN
+  authors:
+  - Laurel F. Kinman
+  - Barrett M. Powell
+  - Ellen D. Zhong
+  - Bonnie Berger
+  - Joseph H. Davis
+  publisher: Nature Protocols
+  date: '2022-11-14'
+  link: https://doi.org/gtj2d4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-022-02841-5
+  title: 'Sequre: a high-performance framework for secure multiparty computation enables
+    biomedical data sharing'
+  authors:
+  - "Haris Smajlovi\u0107"
+  - Ariya Shajii
+  - Bonnie Berger
+  - Hyunghoon Cho
+  - "Ibrahim Numanagi\u0107"
+  publisher: Genome Biology
+  date: '2023-01-11'
+  link: https://doi.org/gt2wvg
+  buttons:
+  - type: source
+    link: https://github.com/0xTCG/sequre
   plugin: sources.py
   file: sources.yaml
