@@ -2,6 +2,7 @@ david_froelicher
 ruochi_zhang
 bowen_jing
 daniel_lazarev
+lillian_zhang
 onkar_gujral
 ben_fefferman
 shuvom_sadhuka
