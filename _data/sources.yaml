@@ -103,3 +103,30 @@
   buttons:
     - type: source
       link: https://github.com/0xTCG/sequre
+
+# ConPLex, Sledzieski 2022
+- id: doi:10.1101/2022.12.06.519374
+  buttons:
+    - type: source
+      link: https://github.com/samsledje/ConPLex
+
+# Cho 2022
+- id: doi:10.1101/2022.11.30.518537
+  buttons:
+    - type: source
+      link: https://github.com/hhcho/sfgwas
+
+# Another CON-Plex paper, Sledzieski 2022
+- id: doi:10.1101/2022.11.03.515086
+  buttons:
+    - type: source
+      link: https://zenodo.org/records/7127229
+
+# Sledzieski 2022
+- id: doi:10.1101/2022.11.03.515084
+
+# Sherman 2022
+- id: doi:10.1038/s41587-022-01353-8
+  buttons:
+    - type: source
+      link: https://github.com/maxwellsh/DIGDriver
