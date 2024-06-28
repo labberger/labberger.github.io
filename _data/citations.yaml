@@ -305,3 +305,81 @@
     link: https://github.com/0xTCG/sequre
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1101/2022.12.06.519374
+  title: Learning the Drug-Target Interaction Lexicon
+  authors:
+  - Rohit Singh
+  - Samuel Sledzieski
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-10'
+  link: https://doi.org/gsbx5w
+  buttons:
+  - type: source
+    link: https://github.com/samsledje/ConPLex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.11.30.518537
+  title: Secure and Federated Genome-Wide Association Studies for Biobank-Scale Datasets
+  authors:
+  - Hyunghoon Cho
+  - David Froelicher
+  - Jeffrey Chen
+  - Manaswitha Edupalli
+  - Apostolos Pyrgelis
+  - Juan R. Troncoso-Pastoriza
+  - Jean-Pierre Hubaux
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-02'
+  link: https://doi.org/gt23gb
+  buttons:
+  - type: source
+    link: https://github.com/hhcho/sfgwas
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.11.03.515086
+  title: Contrasting drugs from decoys
+  authors:
+  - Samuel Sledzieski
+  - Rohit Singh
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-11-04'
+  link: https://doi.org/gt23gc
+  buttons:
+  - type: source
+    link: https://zenodo.org/records/7127229
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.11.03.515084
+  title: Adapting protein language models for rapid DTI prediction
+  authors:
+  - Samuel Sledzieski
+  - Rohit Singh
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-11-04'
+  link: https://doi.org/gsbx6d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-022-01353-8
+  title: Genome-wide mapping of somatic mutation rates uncovers drivers of cancer
+  authors:
+  - Maxwell A. Sherman
+  - Adam U. Yaari
+  - Oliver Priebe
+  - Felix Dietlein
+  - Po-Ru Loh
+  - Bonnie Berger
+  publisher: Nature Biotechnology
+  date: '2022-06-20'
+  link: https://doi.org/gr899x
+  buttons:
+  - type: source
+    link: https://github.com/maxwellsh/DIGDriver
+  plugin: sources.py
+  file: sources.yaml
