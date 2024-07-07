@@ -130,3 +130,87 @@
   buttons:
     - type: source
       link: https://github.com/maxwellsh/DIGDriver
+
+# CryoDRGN2, Zhong 2022
+- id: doi:10.1017/S1431927622005062
+
+# Singh 2022
+- id: doi:10.1101/2022.06.27.497786
+
+# SafeGENIE, Chen 2022
+- id: doi:10.1101/2022.05.20.492837
+
+# Nyquist 2022
+- id: doi:10.1073/pnas.2121720119
+  buttons:
+    - type: source
+      link: https://github.com/ShalekLab/MIT_Milk_Study
+
+# Shan 2022
+- id: doi:10.1073/pnas.2122954119
+  buttons:
+    - type: source
+      link: https://github.com/HeliXonProtein/binding-ddg-predictor
+
+# TAD Map, Singh 2022
+- id: doi:10.1101/2021.10.28.466333
+  buttons:
+    - type: source
+      link: https://cb.csail.mit.edu/cb/tadmap/
+
+# D-SCRIPT, Sledzieski 2022
+- id: doi:10.1016/j.cels.2021.08.010
+  buttons:
+    - type: source
+      link: https://dscript.csail.mit.edu/
+
+# mdBG, Ekim 2021
+- id: doi:10.1016/j.cels.2021.08.009
+  buttons:
+    - type: source
+      link: https://github.com/ekimb/rust-mdbg
+
+# seq, Shajii 2021
+- id: doi:10.1038/s41587-021-00985-6
+  buttons:
+    - type: source
+      link: https://seq-lang.org/
+
+# Cryofold, Zhong 2021
+- id: doi:10.48550/arXiv.2107.01331
+
+# ShareNet, Wu 2021
+- id: doi:10.1093/bioinformatics/btab269
+  buttons:
+    - type: source
+      link: https://github.com/alexw16/sharenet
+
+# ProSE, Bepler 2021
+- id: doi:10.1016/j.cels.2021.05.017
+  buttons:
+    - type: source
+      link: https://github.com/tbepler/prose.
+
+# deSNE and densMAP, Narayan 2021
+- id: doi:10.1038/s41587-020-00801-7
+  buttons:
+    - type: source
+      link: https://cb.csail.mit.edu/cb/densvis/
+
+# Schema, Singh 2021
+- id: doi:10.1186/s13059-021-02313-2
+  buttons:
+    - type: source
+      link: https://github.com/rs239/schema
+
+# CryoDRGN, Zhong 2021
+- id: doi:10.1038/s41592-020-01049-4
+  buttons:
+    - type: source
+      link: https://www.github.com/zhonge/cryodrgn_empiar
+
+# Hie 2021
+- id: doi:10.1126/science.abd7331
+  buttons:
+    - type: source
+      link: https://github.com/brianhie/viral-mutation
