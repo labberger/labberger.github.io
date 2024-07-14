@@ -1,3 +1,6 @@
+# Sledzieski 2024
+- id: doi:10.1073/pnas.2405840121
+
 # Scanorama, Hie 2024
 - id: doi:10.1038/s41596-024-00991-3
   buttons:
@@ -24,9 +27,6 @@
   buttons:
     - type: source
       link: https://github.com/bjing2016/scalar-fields
-
-# Sledzieski 2023
-- id: doi:10.1101/2023.11.09.566187
 
 # Sledzieski 2023
 - id: doi:10.1093/bioinformatics/btad663
@@ -214,3 +214,77 @@
   buttons:
     - type: source
       link: https://github.com/brianhie/viral-mutation
+
+# Carnelian, Nazeen 2020
+- id: doi:10.1186/s13059-020-1933-7
+  buttons:
+    - type: source
+      link: https://github.com/snz20/carnelian/
+
+# Hie 2020
+- id: doi:10.1016/j.cels.2020.09.007
+  buttons:
+    - type: source
+      link: https://github.com/brianhie/uncertainty
+
+# Topaz-Denoise, Bepler 2020
+- id: doi:10.1038/s41467-020-18952-1
+  buttons:
+    - type: source
+      link: https://github.com/tbepler/topaz
+
+# Berger 2020
+- id: doi:10.1038/s41467-020-18320-z
+  buttons:
+    - type: source
+      link: https://github.com/0xTCG/haptreex
+
+# Hie 2020
+- id: doi:10.1146/annurev-biodatasci-012220-100601
+
+# Hutchison 2020
+- id: doi:10.1093/bioinformatics/btz864
+
+# Hopper, DeMeo 2020
+- id: doi:10.1093/bioinformatics/btaa408
+  buttons:
+    - type: source
+      link: https://github.com/bendemeo/hopper
+
+# Berger 2020
+- id: doi:10.1109/TIT.2020.2996543
+
+# Cho 2020
+- id: doi:10.1016/j.cels.2020.03.006
+  buttons:
+    - type: source
+      link: https://github.com/hhcho/priv-query
+
+# Ekim 2020
+- id: doi:10.1007/978-3-030-45257-5_3
+  buttons:
+    - type: source
+      link: http://pasha.csail.mit.edu/
+
+# Hie 2020
+- title: Learning mutational semantics
+  authors:
+    - Brian Hie
+    - Ellen Zhong
+    - Bryan Bryson
+    - Bonnie Berger
+  publisher: Advances in Neural Information Processing Systems
+  date: 2020-12-12
+  link: https://proceedings.neurips.cc/paper/2020/hash/6754e06e46dfa419d5afe3c9781cecad-Abstract.html
+  buttons:
+    - type: source
+      link: https://github.com/brianhie/mutational-semantics-neurips2020
+
+# Berger 2019
+- id: doi:10.1186/s13059-019-1741-0
+
+# Bepler 2019
+- id: doi:10.1038/s41592-019-0575-8
+  buttons:
+    - type: source
+      link: https://cb.csail.mit.edu/cb/topaz/
