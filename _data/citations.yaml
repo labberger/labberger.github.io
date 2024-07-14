@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1073/pnas.2405840121
+  title: Democratizing protein language models with parameter-efficient fine-tuning
+  authors:
+  - Samuel Sledzieski
+  - Meghana Kshirsagar
+  - Minkyung Baek
+  - Rahul Dodhia
+  - Juan Lavista Ferres
+  - Bonnie Berger
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-06-20'
+  link: https://doi.org/gt4bjq
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41596-024-00991-3
   title: 'Scanorama: integrating large and diverse single-cell transcriptomic datasets'
   authors:
@@ -73,20 +87,6 @@
   buttons:
   - type: source
     link: https://github.com/bjing2016/scalar-fields
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2023.11.09.566187
-  title: Democratizing Protein Language Models with Parameter-Efficient Fine-Tuning
-  authors:
-  - Samuel Sledzieski
-  - Meghana Kshirsagar
-  - Minkyung Baek
-  - Bonnie Berger
-  - Rahul Dodhia
-  - Juan Lavista Ferres
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-11-10'
-  link: https://doi.org/gt2rm5
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btad663
@@ -636,5 +636,194 @@
   buttons:
   - type: source
     link: https://github.com/brianhie/viral-mutation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-020-1933-7
+  title: Carnelian uncovers hidden functional patterns across diverse study populations
+    from whole metagenome sequencing reads
+  authors:
+  - Sumaiya Nazeen
+  - Yun William Yu
+  - Bonnie Berger
+  publisher: Genome Biology
+  date: '2020-02-24'
+  link: https://doi.org/grxx6p
+  buttons:
+  - type: source
+    link: https://github.com/snz20/carnelian/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2020.09.007
+  title: Leveraging Uncertainty in Machine Learning Accelerates Biological Discovery
+    and Design
+  authors:
+  - Brian Hie
+  - Bryan D. Bryson
+  - Bonnie Berger
+  publisher: Cell Systems
+  date: '2020-11-01'
+  link: https://doi.org/ghtbsx
+  buttons:
+  - type: source
+    link: https://github.com/brianhie/uncertainty
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-18952-1
+  title: 'Topaz-Denoise: general deep denoising models for cryoEM and cryoET'
+  authors:
+  - Tristan Bepler
+  - Kotaro Kelley
+  - Alex J. Noble
+  - Bonnie Berger
+  publisher: Nature Communications
+  date: '2020-10-15'
+  link: https://doi.org/gh68fb
+  buttons:
+  - type: source
+    link: https://github.com/tbepler/topaz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-020-18320-z
+  title: Improved haplotype inference by exploiting long-range linking and allelic
+    imbalance in RNA-seq datasets
+  authors:
+  - Emily Berger
+  - Deniz Yorukoglu
+  - Lillian Zhang
+  - Sarah K. Nyquist
+  - Alex K. Shalek
+  - Manolis Kellis
+  - "Ibrahim Numanagi\u0107"
+  - Bonnie Berger
+  publisher: Nature Communications
+  date: '2020-09-16'
+  link: https://doi.org/ghwm2g
+  buttons:
+  - type: source
+    link: https://github.com/0xTCG/haptreex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1146/annurev-biodatasci-012220-100601
+  title: Computational Methods for Single-Cell RNA Sequencing
+  authors:
+  - Brian Hie
+  - Joshua Peters
+  - Sarah K. Nyquist
+  - Alex K. Shalek
+  - Bonnie Berger
+  - Bryan D. Bryson
+  publisher: Annual Review of Biomedical Data Science
+  date: '2020-07-20'
+  link: https://doi.org/ghqcdg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btz864
+  title: Meta-analysis of <i>Caenorhabditis elegans</i> single-cell developmental
+    data reveals multi-frequency oscillation in gene activation
+  authors:
+  - Luke A D Hutchison
+  - Bonnie Berger
+  - Isaac S Kohane
+  publisher: Bioinformatics
+  date: '2019-12-20'
+  link: https://doi.org/gt4bjr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btaa408
+  title: 'Hopper: a mathematically optimal algorithm for sketching biological data'
+  authors:
+  - Benjamin DeMeo
+  - Bonnie Berger
+  publisher: Bioinformatics
+  date: '2020-07-01'
+  link: https://doi.org/gg5sxt
+  buttons:
+  - type: source
+    link: https://github.com/bendemeo/hopper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TIT.2020.2996543
+  title: Levenshtein Distance, Sequence Comparison and Biological Database Search
+  authors:
+  - Bonnie Berger
+  - Michael S. Waterman
+  - Yun William Yu
+  publisher: IEEE Transactions on Information Theory
+  date: '2021-06-01'
+  link: https://doi.org/gt4bjs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2020.03.006
+  title: Privacy-Preserving Biomedical Database Queries with Optimal Privacy-Utility
+    Trade-Offs
+  authors:
+  - Hyunghoon Cho
+  - Sean Simmons
+  - Ryan Kim
+  - Bonnie Berger
+  publisher: Cell Systems
+  date: '2020-05-01'
+  link: https://doi.org/gsw6n3
+  buttons:
+  - type: source
+    link: https://github.com/hhcho/priv-query
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-45257-5_3
+  title: A Randomized Parallel Algorithm for Efficiently Finding Near-Optimal Universal
+    Hitting Sets
+  authors:
+  - "Bar\u0131\u015F Ekim"
+  - Bonnie Berger
+  - Yaron Orenstein
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/gt4bjt
+  buttons:
+  - type: source
+    link: http://pasha.csail.mit.edu/
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning mutational semantics
+  authors:
+  - Brian Hie
+  - Ellen Zhong
+  - Bryan Bryson
+  - Bonnie Berger
+  publisher: Advances in Neural Information Processing Systems
+  date: '2020-12-12'
+  link: https://proceedings.neurips.cc/paper/2020/hash/6754e06e46dfa419d5afe3c9781cecad-Abstract.html
+  buttons:
+  - type: source
+    link: https://github.com/brianhie/mutational-semantics-neurips2020
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-019-1741-0
+  title: Emerging technologies towards enhancing privacy in genomic data sharing
+  authors:
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Genome Biology
+  date: '2019-07-02'
+  link: https://doi.org/gkc6jb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-019-0575-8
+  title: Positive-unlabeled convolutional neural networks for particle picking in
+    cryo-electron micrographs
+  authors:
+  - Tristan Bepler
+  - Andrew Morin
+  - Micah Rapp
+  - Julia Brasch
+  - Lawrence Shapiro
+  - Alex J. Noble
+  - Bonnie Berger
+  publisher: Nature Methods
+  date: '2019-10-07'
+  link: https://doi.org/ggcpps
+  buttons:
+  - type: source
+    link: https://cb.csail.mit.edu/cb/topaz/
   plugin: sources.py
   file: sources.yaml
