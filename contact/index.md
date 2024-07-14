@@ -16,7 +16,7 @@ Cambridge, MA 02139<br>
 617-253-1827 (CSAIL)<br>
 617-253-4986 (math)
 
-To contact us by email, please address both Bonnie&ensp;(bab@mit.edu) and Pepe Abola&ensp;(josea525@mit.edu).
+To contact us by email, please address both Bonnie (bab@mit.edu) and Pepe Abola (josea525@mit.edu).
 
 ## Prospective Students
 Prospective PhD students may apply through any of the following programs:
