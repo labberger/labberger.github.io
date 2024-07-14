@@ -383,3 +383,258 @@
     link: https://github.com/maxwellsh/DIGDriver
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1017/S1431927622005062
+  title: 'CryoDRGN2: Ab Initio Neural Reconstruction of Dynamic Protein Complexes'
+  authors:
+  - Ellen D Zhong
+  - Adam Lerer
+  - Joseph H Davis
+  - Bonnie Berger
+  publisher: Microscopy and Microanalysis
+  date: '2022-08-01'
+  link: https://doi.org/gt3qz6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.06.27.497786
+  title: Prioritizing transcription factor perturbations from single-cell transcriptomics
+  authors:
+  - Rohit Singh
+  - Joshua Shing Shun Li
+  - Sudhir Gopal Tattikota
+  - Yifang Liu
+  - Jun Xu
+  - Yanhui Hu
+  - Norbert Perrimon
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-30'
+  link: https://doi.org/gsz83n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2022.05.20.492837
+  title: Secure and federated linear mixed model association tests
+  authors:
+  - Jeffrey Chen
+  - Manaswitha Edupalli
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-05-24'
+  link: https://doi.org/gt3qz7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2121720119
+  title: Cellular and transcriptional diversity over the course of human lactation
+  authors:
+  - Sarah K. Nyquist
+  - Patricia Gao
+  - Tessa K. J. Haining
+  - Michael R. Retchin
+  - Yarden Golan
+  - Riley S. Drake
+  - Kellie Kolb
+  - Benjamin E. Mead
+  - Nadav Ahituv
+  - Micaela E. Martinez
+  - Alex K. Shalek
+  - Bonnie Berger
+  - Brittany A. Goods
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-04-04'
+  link: https://doi.org/gr24s2
+  buttons:
+  - type: source
+    link: https://github.com/ShalekLab/MIT_Milk_Study
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2122954119
+  title: Deep learning guided optimization of human antibody against SARS-CoV-2 variants
+    with broad neutralization
+  authors:
+  - Sisi Shan
+  - Shitong Luo
+  - Ziqing Yang
+  - Junxian Hong
+  - Yufeng Su
+  - Fan Ding
+  - Lili Fu
+  - Chenyu Li
+  - Peng Chen
+  - Jianzhu Ma
+  - Xuanling Shi
+  - Qi Zhang
+  - Bonnie Berger
+  - Linqi Zhang
+  - Jian Peng
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-03-01'
+  link: https://doi.org/gr4294
+  buttons:
+  - type: source
+    link: https://github.com/HeliXonProtein/binding-ddg-predictor
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2021.10.28.466333
+  title: Deciphering the species-level structure of topologically associating domains
+  authors:
+  - Rohit Singh
+  - Bonnie Berger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-10-29'
+  link: https://doi.org/gt3qz8
+  buttons:
+  - type: source
+    link: https://cb.csail.mit.edu/cb/tadmap/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2021.08.010
+  title: D-SCRIPT translates genome to phenome with sequence-based, structure-aware,
+    genome-scale predictions of protein-protein interactions
+  authors:
+  - Samuel Sledzieski
+  - Rohit Singh
+  - Lenore Cowen
+  - Bonnie Berger
+  publisher: Cell Systems
+  date: '2021-10-01'
+  link: https://doi.org/gt3qz9
+  buttons:
+  - type: source
+    link: https://dscript.csail.mit.edu/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2021.08.009
+  title: 'Minimizer-space de Bruijn graphs: Whole-genome assembly of long reads in
+    minutes on a personal computer'
+  authors:
+  - "Bar\u0131\u015F Ekim"
+  - Bonnie Berger
+  - Rayan Chikhi
+  publisher: Cell Systems
+  date: '2021-10-01'
+  link: https://doi.org/gmtsjc
+  buttons:
+  - type: source
+    link: https://github.com/ekimb/rust-mdbg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-021-00985-6
+  title: A Python-based programming language for high-performance computational genomics
+  authors:
+  - Ariya Shajii
+  - "Ibrahim Numanagi\u0107"
+  - Alexander T. Leighton
+  - Haley Greenyer
+  - Saman Amarasinghe
+  - Bonnie Berger
+  publisher: Nature Biotechnology
+  date: '2021-07-19'
+  link: https://doi.org/gk8hdc
+  buttons:
+  - type: source
+    link: https://seq-lang.org/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2107.01331
+  title: Exploring generative atomic models in cryo-EM reconstruction
+  authors:
+  - Ellen D. Zhong
+  - Adam Lerer
+  - Joseph H. Davis
+  - Bonnie Berger
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gt3q2b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btab269
+  title: Bayesian information sharing enhances detection of regulatory associations
+    in rare cell types
+  authors:
+  - Alexander P Wu
+  - Jian Peng
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Bioinformatics
+  date: '2021-07-01'
+  link: https://doi.org/gt3q2c
+  buttons:
+  - type: source
+    link: https://github.com/alexw16/sharenet
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2021.05.017
+  title: 'Learning the protein language: Evolution, structure, and function'
+  authors:
+  - Tristan Bepler
+  - Bonnie Berger
+  publisher: Cell Systems
+  date: '2021-06-01'
+  link: https://doi.org/gqbqpp
+  buttons:
+  - type: source
+    link: https://github.com/tbepler/prose.
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-020-00801-7
+  title: Assessing single-cell transcriptomic variability through density-preserving
+    data visualization
+  authors:
+  - Ashwin Narayan
+  - Bonnie Berger
+  - Hyunghoon Cho
+  publisher: Nature Biotechnology
+  date: '2021-01-18'
+  link: https://doi.org/ghw86n
+  buttons:
+  - type: source
+    link: https://cb.csail.mit.edu/cb/densvis/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-021-02313-2
+  title: 'Schema: metric learning enables interpretable synthesis of heterogeneous
+    single-cell modalities'
+  authors:
+  - Rohit Singh
+  - Brian L. Hie
+  - Ashwin Narayan
+  - Bonnie Berger
+  publisher: Genome Biology
+  date: '2021-05-03'
+  link: https://doi.org/gjzh4x
+  buttons:
+  - type: source
+    link: https://github.com/rs239/schema
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-020-01049-4
+  title: 'CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural
+    networks'
+  authors:
+  - Ellen D. Zhong
+  - Tristan Bepler
+  - Bonnie Berger
+  - Joseph H. Davis
+  publisher: Nature Methods
+  date: '2021-02-01'
+  link: https://doi.org/gjv8x8
+  buttons:
+  - type: source
+    link: https://www.github.com/zhonge/cryodrgn_empiar
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.abd7331
+  title: Learning the language of viral evolution and escape
+  authors:
+  - Brian Hie
+  - Ellen D. Zhong
+  - Bonnie Berger
+  - Bryan Bryson
+  publisher: Science
+  date: '2021-01-15'
+  link: https://doi.org/ghtbcv
+  buttons:
+  - type: source
+    link: https://github.com/brianhie/viral-mutation
+  plugin: sources.py
+  file: sources.yaml
