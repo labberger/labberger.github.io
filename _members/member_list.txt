@@ -1,11 +1,10 @@
-david_froelicher
 ruochi_zhang
+baris_ekim
 bowen_jing
 lillian_zhang
 daniel_lazarev
 onkar_gujral
 shuvom_sadhuka
-ben_fefferman
 anna_sappington
 seokmin_ha
 megan_le
