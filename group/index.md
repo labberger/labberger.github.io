@@ -20,6 +20,8 @@ Our group consists of graduate students, postdocs, undergraduates, and high scho
 
 {% include section.html %}
 
+[Barış Ekim](https://people.csail.mit.edu/ekim/)&ensp;(PhD 2025 --> Postdoc @ Yale)
+
 [Sam Sledzieski](https://samsl.io/)&ensp;(PhD 2024 --> Flatiron Research Fellow @ Flatiron Institute)
 
 Derek Yen&ensp;(MEng 2024 --> PhD in Computer Science @ NYU)
