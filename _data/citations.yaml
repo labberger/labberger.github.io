@@ -225,7 +225,7 @@
   - Yves Fomekong Nanfack
   - Bryan Bryson
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-04-28'
   link: https://doi.org/gt2wvb
   buttons:
@@ -267,7 +267,7 @@
   - Rohit Singh
   - Christopher Walsh
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-03'
   link: https://doi.org/gt2wvf
   buttons:
@@ -312,7 +312,7 @@
   - Samuel Sledzieski
   - Lenore Cowen
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-10'
   link: https://doi.org/gsbx5w
   buttons:
@@ -331,7 +331,7 @@
   - Juan R. Troncoso-Pastoriza
   - Jean-Pierre Hubaux
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-02'
   link: https://doi.org/gt23gb
   buttons:
@@ -346,7 +346,7 @@
   - Rohit Singh
   - Lenore Cowen
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-11-04'
   link: https://doi.org/gt23gc
   buttons:
@@ -361,7 +361,7 @@
   - Rohit Singh
   - Lenore Cowen
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-11-04'
   link: https://doi.org/gsbx6d
   plugin: sources.py
@@ -406,7 +406,7 @@
   - Yanhui Hu
   - Norbert Perrimon
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-06-30'
   link: https://doi.org/gsz83n
   plugin: sources.py
@@ -418,7 +418,7 @@
   - Manaswitha Edupalli
   - Bonnie Berger
   - Hyunghoon Cho
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-05-24'
   link: https://doi.org/gt3qz7
   plugin: sources.py
@@ -479,7 +479,7 @@
   authors:
   - Rohit Singh
   - Bonnie Berger
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-29'
   link: https://doi.org/gt3qz8
   buttons:
@@ -718,8 +718,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btz864
-  title: Meta-analysis of <i>Caenorhabditis elegans</i> single-cell developmental
-    data reveals multi-frequency oscillation in gene activation
+  title: "Meta-analysis of\n                    <i>Caenorhabditis elegans</i>\n  \
+    \                  single-cell developmental data reveals multi-frequency oscillation\
+    \ in gene activation"
   authors:
   - Luke A D Hutchison
   - Bonnie Berger
